@@ -22,6 +22,7 @@ After exploring the data, I answered various important business questions to und
 4. Which regions in the USA consume a lot of Avocados?
 5. For each type of Avocado, what are the total volume and total bags sold?
 
-**Language: Python
-Visualizations: Distribution Graphs, Scatter Plots, Line Graphs
-Libraries: Pandas, Numpy, Seaborn, Matplotlib, Scipy**
+**Language: Python**
+**Visualizations: Distribution Graphs, Scatter Plots, Line Graphs**
+**Libraries: Pandas, Numpy, Seaborn, Matplotlib, Scipy**
+
