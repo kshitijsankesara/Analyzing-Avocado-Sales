@@ -23,6 +23,8 @@ After exploring the data, I answered various important business questions to und
 5. For each type of Avocado, what are the total volume and total bags sold?
 
 **Language: Python**
+
 **Visualizations: Distribution Graphs, Scatter Plots, Line Graphs**
+
 **Libraries: Pandas, Numpy, Seaborn, Matplotlib, Scipy**
 
