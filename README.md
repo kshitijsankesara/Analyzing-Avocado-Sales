@@ -1,5 +1,4 @@
-# Analyzing-Avocado-Sales
-
+# Analyzing Avocado Sales Data
 
 For my IST 652: Scripting for Data Analysis course, I analyzed the Avacado Sales Data set which I found it on Kaggle (https://www.kaggle.com/neuromusic/avocado-prices). The data records the historical prices and sales of Avocado in multiple US regions. My goal is to better understand the price trends and the factors which have a positive or a negative impact on Avocado sales in the United States. The data consisted of **18500 records and 13 attributes.**
 
